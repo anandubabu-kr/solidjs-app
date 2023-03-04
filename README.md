@@ -1,0 +1,3 @@
+# solidjs-app
+
+[Edit on StackBlitz ⚡️](https://stackblitz.com/edit/solidjs-templates-budej7)
